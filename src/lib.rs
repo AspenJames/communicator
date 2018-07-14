@@ -1,7 +1,4 @@
-mod client {
-    fn connect() {
-    }
-}
+mod client;
 
 mod network { // declare a module named network
     // declare a function connect within the module
